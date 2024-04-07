@@ -86,3 +86,9 @@ How to Setup the Project -
 4) start the server  - python manage.py runserver
 5) Load your log file and find your anomalies in the anomaly tab
 6) happy coding ...thanks 
+
+
+Login Page
+![alt text]https://github.com/nipun-dhiman/logDefend/Screenshots/1_ace.png
+
+
