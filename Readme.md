@@ -87,7 +87,8 @@ How to Setup the Project -
 5) Load your log file and find your anomalies in the anomaly tab
 6) happy coding ...thanks 
 
-
+Home Page
+![alt text](https://github.com/nipun-dhiman/logDefend/blob/main/Screenshots/1_ace.png)
 Login Page
 ![alt text](https://github.com/nipun-dhiman/logDefend/blob/main/Screenshots/1_ace.png)
 
