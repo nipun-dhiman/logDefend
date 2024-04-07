@@ -89,6 +89,6 @@ How to Setup the Project -
 
 
 Login Page
-![alt text]https://github.com/nipun-dhiman/logDefend/Screenshots/1_ace.png
+![alt text](https://github.com/nipun-dhiman/logDefend/Screenshots/1_ace.png)
 
 
