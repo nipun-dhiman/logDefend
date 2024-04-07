@@ -88,7 +88,7 @@ How to Setup the Project -
 6) happy coding ...thanks 
 
 Home Page
-![alt text](https://github.com/nipun-dhiman/logDefend/blob/main/Screenshots/1_ace.png)
+![alt text](https://github.com/nipun-dhiman/logDefend/blob/main/Screenshots/2_ace.png)
 Login Page
 ![alt text](https://github.com/nipun-dhiman/logDefend/blob/main/Screenshots/1_ace.png)
 
